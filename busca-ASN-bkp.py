@@ -138,8 +138,6 @@ def asinfo():
     else:
         print("Você digitou algo errado.")
 
-
-
 if __name__ == "__main__":
     as_input = input("Digite o número AS: ")
     ips = whoismet(as_input)
